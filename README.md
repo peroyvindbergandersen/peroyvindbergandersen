@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @peroyvindbergandersen
-- 👀 I often start a project and just leave it unfinished. To complex.
-- 🌱 I’m currently learning javascript and html5
+- 🌱 I’m currently learning javascript and html5 and geometry
 - 💞️ I’m looking to collaborate on all my interests
 - 📫 How to reach me +4790719325
